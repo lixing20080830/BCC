@@ -29,5 +29,10 @@ https://www.cnblogs.com/hanyinglong/p/5024643.html
 我的dubbo-admin安装路径：/usr/local/kencery/tomcat/webapps/dubbo-admin-2.6.0
 访问地址：http://106.12.37.42:8888/dubbo-admin-2.6.0/
 
+redis安装命令：
+$ wget http://download.redis.io/releases/redis-4.0.10.tar.gz
+$ tar xzf redis-4.0.10.tar.gz
+$ cd redis-4.0.10
+
 
 
