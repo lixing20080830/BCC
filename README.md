@@ -21,6 +21,7 @@ JDK安装参考：https://www.cnblogs.com/c-xiaohai/p/6511294.html
 
 我的zookeeper安装路径：
 /usr/local/zookeeper-3.4.10
+查看zookeeper进程--方法：ps -aux | grep 'zookeeper'。系统有返回，说明zookeeper启动。
 
 tomcat安装参考：
 https://www.cnblogs.com/hanyinglong/p/5024643.html
