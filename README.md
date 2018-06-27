@@ -6,7 +6,7 @@
 解压命令 tar -zxvf jdk-7u80-linux-x64.tar.gz
 移动命令 mv jdk1.7.0_80/ /usr/local/
 配置环境变量 vim /etc/profile
-![Image text](https://github.com/lixing20080830/BCC/tree/master/images-folder/environment.png)
+![Image text](https://github.com/lixing20080830/BCC/images-folder/environment.png)
 
   
 重新加载文件 source /etc/profile
