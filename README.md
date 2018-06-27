@@ -6,16 +6,20 @@
 解压命令 tar -zxvf jdk-7u80-linux-x64.tar.gz
 移动命令 mv jdk1.7.0_80/ /usr/local/
 配置环境变量 vim /etc/profile
-　　export JAVA_HOME=/usr/local/jdk1.7.0_80
-　　export JRE_HOME=/usr/local/jdk1.7.0_80/jre 
-　　export PATH=$PATH:/usr/local/jdk1.7.0_80/bin 
-　　export CLASSPATH=./:/usr/local/jdk1.7.0_80/lib:/usr/local/jdk1.7.0_80/jre/lib
-  
-  重新加载文件 source /etc/profile
-  
-  
-  参考：https://www.cnblogs.com/c-xiaohai/p/6511294.html
 
+  
+重新加载文件 source /etc/profile
+  
+JDK安装参考：https://www.cnblogs.com/c-xiaohai/p/6511294.html
+
+我的jkd安装路径：
+/usr/local/jdk1.7.0_80
+
+我的Tomcat安装路径：
+/usr/local/kencery/tomcat
+
+tomcat安装参考：
+https://www.cnblogs.com/hanyinglong/p/5024643.html
 
 
 
