@@ -19,6 +19,9 @@ JDK安装参考：https://www.cnblogs.com/c-xiaohai/p/6511294.html
 我的Tomcat安装路径：
 /usr/local/kencery/tomcat
 
+我的zookeeper安装路径：
+/usr/local/zookeeper-3.4.10
+
 tomcat安装参考：
 https://www.cnblogs.com/hanyinglong/p/5024643.html
 
