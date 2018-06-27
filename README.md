@@ -26,5 +26,8 @@ JDK安装参考：https://www.cnblogs.com/c-xiaohai/p/6511294.html
 tomcat安装参考：
 https://www.cnblogs.com/hanyinglong/p/5024643.html
 
+我的dubbo-admin安装路径：/usr/local/kencery/tomcat/webapps/dubbo-admin-2.6.0
+访问地址：http://106.12.37.42:8888/dubbo-admin-2.6.0/
+
 
 
