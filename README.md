@@ -52,4 +52,13 @@ REDIS安装后外网无法访问的问题解决办法：
 ![Image text](https://github.com/lixing20080830/BCC/raw/master/images-folder/redis.png)
 
 
+我的rabbitmq安装：
+路径是：/usr/local/rabbitmq
+首先安装erlang，安装路径：/usr/erlang
+参考：https://www.cnblogs.com/mcgrady/p/7614417.html
+安装rabbitmq参考：https://blog.csdn.net/qq_34021712/article/details/72567786
+我的访问地址：http://106.12.37.42:15672/#/
+我的管理员administrator用户名：admin 密码：admin
+
+
 
