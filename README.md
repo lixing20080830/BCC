@@ -53,6 +53,7 @@ make install PREFIX=/usr/local/redis<br>
 客户端连接：
 /usr/local/redis/bin/redis-cli<br> 
 
+我的密码：lixing<br>
 Redis：密码设置和查看密码
 参考资料：https://www.cnblogs.com/suanshun/p/7699084.html
 
