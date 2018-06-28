@@ -14,7 +14,8 @@ JDK安装参考：https://www.cnblogs.com/c-xiaohai/p/6511294.html
 
 我的jkd安装路径：
 /usr/local/jdk1.7.0_80
-##tomcat
+tomcat
+====
 我的Tomcat安装路径：
 /usr/local/kencery/tomcat
 
@@ -59,6 +60,5 @@ REDIS安装后外网无法访问的问题解决办法：
 安装rabbitmq参考：https://blog.csdn.net/qq_34021712/article/details/72567786
 我的访问地址：http://106.12.37.42:15672/#/
 我的管理员administrator用户名：admin 密码：admin
-
 
 
