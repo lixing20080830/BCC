@@ -49,6 +49,7 @@ Redis：密码设置和查看密码
 
 REDIS安装后外网无法访问的问题解决办法：
 将其默认的127.0.0.1改为0.0.0.0(代表不做限制)
+![Image text](https://github.com/lixing20080830/BCC/raw/master/images-folder/redis.png)
 
 
 
