@@ -33,6 +33,17 @@ redis安装命令：
 $ wget http://download.redis.io/releases/redis-4.0.10.tar.gz
 $ tar xzf redis-4.0.10.tar.gz
 $ cd redis-4.0.10
+make install PREFIX=/usr/local/redis
+
+注意 mv redis.conf /usr/local/redis/etc换成 mv redis.conf /usr/local/redis/etc/
+
+第一个是启动redis服务器
+第二个是启动服务器所需的配置
+/usr/local/redis/bin/redis-server /usr/local/redis/etc/redis.conf
+
+客户端连接：
+/usr/local/redis/bin/redis-cli 
+
 
 
 
