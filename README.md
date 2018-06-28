@@ -31,8 +31,10 @@ https://www.cnblogs.com/hanyinglong/p/5024643.html
 
 dubbo-admin
 -------
-我的dubbo-admin安装路径：/usr/local/kencery/tomcat/webapps/dubbo-admin-2.6.0
+我的dubbo-admin安装路径：/usr/local/kencery/tomcat/webapps/dubbo-admin-2.6.0<br/>
 访问地址：http://106.12.37.42:8888/dubbo-admin-2.6.0/<br/>
+
+
 redis
 -------
 redis安装命令：
@@ -55,9 +57,10 @@ Redis：密码设置和查看密码
 
 REDIS安装后外网无法访问的问题解决办法：
 将其默认的127.0.0.1改为0.0.0.0(代表不做限制)
-![Image text](https://github.com/lixing20080830/BCC/raw/master/images-folder/redis.png)
+![Image text](https://github.com/lixing20080830/BCC/raw/master/images-folder/redis.png)<br>
 
-##rabbitmq
+rabbitmq
+-------
 我的rabbitmq安装：
 路径是：/usr/local/rabbitmq
 首先安装erlang，安装路径：/usr/erlang
