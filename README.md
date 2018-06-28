@@ -2,6 +2,7 @@
 百度云服务器安装
 
 首先安装的是jdk，BCC是linux 7 64位，所以需要安装对应的 jdk 7 64位否则会出现 cannot execute binary file 错误<br/>
+
 JDK
 ====
 解压命令 tar -zxvf jdk-7u80-linux-x64.tar.gz
@@ -14,10 +15,10 @@ JDK
 JDK安装参考：https://www.cnblogs.com/c-xiaohai/p/6511294.html
 
 我的jkd安装路径：
-/usr/local/jdk1.7.0_80
+/usr/local/jdk1.7.0_80<br/>
 
 tomcat
-====
+-------
 我的Tomcat安装路径：
 /usr/local/kencery/tomcat
 
@@ -28,7 +29,8 @@ tomcat
 tomcat安装参考：
 https://www.cnblogs.com/hanyinglong/p/5024643.html
 
-##dubbo-admin
+dubbo-admin
+-------
 我的dubbo-admin安装路径：/usr/local/kencery/tomcat/webapps/dubbo-admin-2.6.0
 访问地址：http://106.12.37.42:8888/dubbo-admin-2.6.0/<br/>
 redis
