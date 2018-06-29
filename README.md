@@ -72,4 +72,13 @@ rabbitmq
 我的访问地址：http://106.12.37.42:15672/#/<br>
 我的管理员administrator用户名：admin 密码：admin<br>
 
+### activemq
+我的activemq安装路径：<br>
+/usr/local/activemq/<br>
+在/usr/local/activemq/bin 目录下执行./activemq start<br>
+因为之前安装了rabbitmq，出现端口冲突<br>
+解决方法参考：<br>
+https://blog.csdn.net/pansanday/article/details/78024811<br>
+
+访问地址：http://106.12.37.42:8161/admin/ 用户名：admin 密码：admin<br>
 
