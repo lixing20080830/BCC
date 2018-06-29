@@ -8,6 +8,7 @@ JDK
 解压命令 tar -zxvf jdk-7u80-linux-x64.tar.gz<br>
 移动命令 mv jdk1.7.0_80/ /usr/local/<br>
 配置环境变量 vim /etc/profile<br>
+/etc/profile文件中修改环境变量，在这里修改的内容是对所有用户起作用的。<br>
 ![Image text](https://github.com/lixing20080830/BCC/raw/master/images-folder/environment.png)<br>
 
 重新加载文件 source /etc/profile<br>
