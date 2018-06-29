@@ -38,7 +38,7 @@ dubbo-admin
 
 redis
 -------
-redis安装命令：
+redis安装步骤：<br>
 $ wget http://download.redis.io/releases/redis-4.0.10.tar.gz<br>
 $ tar xzf redis-4.0.10.tar.gz<br>
 $ cd redis-4.0.10<br>
