@@ -21,7 +21,7 @@ JDK安装参考：https://www.cnblogs.com/c-xiaohai/p/6511294.html<br>
 tomcat
 -------
 我的Tomcat安装路径：<br>
-/usr/local/kencery/tomcat<br>
+/usr/local/tomcat<br>
 
 tomcat安装参考：
 https://www.cnblogs.com/hanyinglong/p/5024643.html<br>
@@ -30,7 +30,14 @@ zookeeper
 -------
 我的zookeeper安装路径：<br>
 /usr/local/zookeeper-3.4.10<br>
+* 服务启停
+1. 启动ZK服务:       sh bin/zkServer.sh start<br>
+2. 查看ZK服务状态:    sh bin/zkServer.sh status<br>
+3. 停止ZK服务:       sh bin/zkServer.sh stop<br>
+4. 重启ZK服务:       sh bin/zkServer.sh restart<br>
+
 查看zookeeper进程--方法：ps -aux | grep 'zookeeper'。系统有返回，说明zookeeper启动。<br>
+
 
 dubbo-admin
 -------
