@@ -96,3 +96,7 @@ https://blog.csdn.net/pansanday/article/details/78024811<br>
 重新加载文件 source /etc/profile<br>
 参考资料：https://www.cnblogs.com/clicli/p/5866390.html<br>
 
+### nginx
+我的安装路径：/etc/nginx<br>
+参考资料：https://blog.csdn.net/oscarwang/article/details/50562025<br>
+
