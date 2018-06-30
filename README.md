@@ -90,3 +90,9 @@ https://blog.csdn.net/pansanday/article/details/78024811<br>
 
 访问地址：http://106.12.37.42:8161/admin/ 用户名：admin 密码：admin<br>
 
+### maven
+我的安装路径：/usr/local/maven-3.5.4<br>
+配置环境变量 vim /etc/profile<br>
+重新加载文件 source /etc/profile<br>
+参考资料：https://www.cnblogs.com/clicli/p/5866390.html<br>
+
