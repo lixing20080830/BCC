@@ -63,8 +63,8 @@ make install PREFIX=/usr/local/redis<br>
 /usr/local/redis/bin/redis-cli<br> 
 
 我的密码：lixing<br>
-Redis：密码设置和查看密码
-参考资料：https://www.cnblogs.com/suanshun/p/7699084.html
+Redis：密码设置和查看密码<br>
+参考资料：https://www.cnblogs.com/suanshun/p/7699084.html<br>
 
 REDIS安装后外网无法访问的问题解决办法：<br>
 将其默认的127.0.0.1改为0.0.0.0(代表不做限制)<br>
