@@ -44,6 +44,10 @@ dubbo-admin
 我的dubbo-admin安装路径：/usr/local/kencery/tomcat/webapps/dubbo-admin-2.6.0<br/>
 访问地址：http://106.12.37.42:8888/dubbo-admin-2.6.0/<br/>
 用户名：guest 密码：guest<br/>
+查看服务治理-提供者 消费者要求服务器安全认证，请输入<br/>
+用户名：root<br/>
+密码：root<br/>
+参考资料：https://blog.csdn.net/u010044440/article/details/58072907<br>
 
 redis
 -------
